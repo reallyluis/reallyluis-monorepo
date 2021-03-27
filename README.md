@@ -2,14 +2,14 @@
 
 ## Usage
 
-This monorepo is setup for a dummy `@thefakeorg/` NPM organization. There are 2 packages by default:
+This monorepo is setup for a dummy `@reallyluis/` NPM organization. There are 2 packages by default:
 
-- `@thefakeorg/react` - A placholder React component
-- `@thefakeorg/utils` - A utils packages
+- `@reallyluis/react` - A placholder React component
+- `@reallyluis/utils` - A utils packages
 
 Unlike other TSDX templates, the developer experience for this template is currently a bit more manual.
 
-Your first order of business will be to search and replace `@thefakeorg` for the npm organization of your own.
+Your first order of business will be to search and replace `@reallyluis` for the npm organization of your own.
 
 After that you can install all the dependencies in the root directory. Since the monorepo uses Lerna and Yarn Workspaces, npm CLI is not supported (only yarn).
 
