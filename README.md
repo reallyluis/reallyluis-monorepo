@@ -1,4 +1,5 @@
-# TSDX Monorepo Example/Playground
+
+<!-- # TSDX Monorepo Example/Playground
 
 ## Usage
 
@@ -43,4 +44,4 @@ Important Safety Tip: When adding/altering packages in the playground, use `alia
 
 ### Running Cypress
 
-(In a third terminal) you can run Cypress and it will run your integration tests against the playground/example. If you want to keep integration tests and examples seperate you can copy the example folder to another folder called like `app` or whatever. Cypress will look for `localhost:1234` by default. If you change ports, also make sure to update [`.github/integration.yaml`](.github/integration.yml) as well.
+(In a third terminal) you can run Cypress and it will run your integration tests against the playground/example. If you want to keep integration tests and examples seperate you can copy the example folder to another folder called like `app` or whatever. Cypress will look for `localhost:1234` by default. If you change ports, also make sure to update [`.github/integration.yaml`](.github/integration.yml) as well. -->
